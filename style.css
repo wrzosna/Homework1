@@ -1,0 +1,34 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+#me {
+    border-radius: 2.5rem;
+    width: 400px;
+}
+
+#songs {
+    width: 500px;
+    margin: auto;
+    list-style-type: none;
+    display: flex;
+    padding: 15px;
+    justify-content: space-around;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+div a{
+    text-decoration: none;
+}
